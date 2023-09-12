@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #F85559;
+    border-radius: 30px;
+    margin: 30px;
+    
+    height: 20px;
+    width: 85%;
+}
+
+.nav {
+    margin: 50px;
+    margin-left: 60px;
+}
+.body {
+    font-family: 'Lato', sans-serif;
+    width: 90%;
+}
+.btn-center{
+    display: flex;
+    gap: 5px;
+    margin-left: 300px;
+}
+.logo {
+    width: 30px;
+    height: 30px;
+}
+.inp {
+    border-radius: 10px;
+}
+.bannar-01 {
+    margin-left: 60px;
+}
+
