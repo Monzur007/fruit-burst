@@ -30,4 +30,10 @@
 .bannar-01 {
     margin-left: 60px;
 }
-
+.team {
+    background-image: url("images/team.png");
+    background-repeat: no-repeat;
+    width: 90%;
+    margin-left: 60px;
+    height: 500px;
+}
